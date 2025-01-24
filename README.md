@@ -37,7 +37,7 @@ I'm also committed to continuous learning, pursuing advanced **security certific
 
 ## 📖 Featured Projects
 
-### 🔑 **AWS EC2 Provisioner**
+### 🔑 **[AWS EC2 Provisioner](https://github.com/trenner1/EC2-Provisioner)**
 An open-source provisioner for implementing a data (engineering, science, etc) **learning** environment using Terraform and Ansible.
 
 ### 🔎 **Fraud Detection in Class Action Claims**
