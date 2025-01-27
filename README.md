@@ -40,8 +40,8 @@ I'm also committed to continuous learning, pursuing advanced **security certific
 ### 🔑 **[AWS EC2 Provisioner](https://github.com/trenner1/EC2-Provisioner)**
 An open-source provisioner for implementing a data (engineering, science, etc) **learning** environment using Terraform and Ansible.
 
-### 🔎 **Fraud Detection in Class Action Claims**
-A DevOps and MLOps-powered system to identify fraudulent entries, combining my skills in **security**, **data engineering**, and **machine learning**.
+### 🔎 **Fraud Detection in Class Action Claims** 🚧Coming Soon!🚧
+A DevOps and MLOps-powered system to identify fraudulent entries, combining my skills in **security**, **data engineering**, and **machine learning**. 
 
 ---
 
