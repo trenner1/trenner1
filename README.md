@@ -20,7 +20,7 @@ I’m also committed to continuous learning, pursuing advanced **cybersecurity c
 
 ### Security & Automation
 - **HashiCorp Vault**, **Terraform**, **Consul**, **Ansible**  
-- **CI/CD**: GitHub Actions, ArgoCD  
+- **CI/CD**: GitHub Actions, Jenkins 
 - **Monitoring**: Grafana, Prometheus, ELK Stack  
 
 ### Programming & Scripting
