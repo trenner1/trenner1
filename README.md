@@ -9,7 +9,7 @@ I specialize in:
 - ☁️ Enabling **cloud-native security** across AWS, Azure, and hybrid environments  
 - 🏗️ Driving **security architecture & cloud-native design** initiatives  
 
-I’m also committed to continuous learning, pursuing advanced **cybersecurity certifications** (SANS GSEC, AWS Solutions Architect, KCNA/KCSA) while contributing to **open-source projects** in both the **cloud** and **marine electronics** spaces.  
+I’m also committed to continuous learning, pursuing advanced **cybersecurity certifications** (SANS GCIH, AWS Solutions Architect, KCNA/KCSA) while contributing to **open-source projects** in both the **cloud** and **marine electronics** spaces.  
 
 ---
 
@@ -24,7 +24,7 @@ I’m also committed to continuous learning, pursuing advanced **cybersecurity c
 - **Monitoring**: Grafana, Prometheus, ELK Stack  
 
 ### Programming & Scripting
-- **Python**, **C++**, **Bash**
+- **Rust**, **Python**, **Bash**
 
 ---
 
@@ -38,8 +38,11 @@ I’m also committed to continuous learning, pursuing advanced **cybersecurity c
 
 ## 📖 Featured Projects
 
+### **Vault Audit Log Tool**
+An enterprise grade log parser with endpoint enrichment. Used by Major American and Canadian Banks to gain insights into their Vault Cluster Operations.
+
 ### ⛵ **Open-Source Marine Navigation System**
-A C++ and Python–based project for real-time marine navigation and monitoring, integrating NMEA data, sensors, and dashboards for onboard and remote use.  
+A Rust and Python–based project for real-time marine navigation and monitoring, integrating NMEA data, sensors, and dashboards for onboard and remote use.  
 
 ### ☁️ **[AWS EC2 Provisioner](https://github.com/trenner1/EC2-Provisioner)**
 An open-source provisioner for standing up **learning environments** with Terraform and Ansible.  
