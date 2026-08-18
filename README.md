@@ -1,54 +1,37 @@
-# Hi there! 👋 Welcome to my GitHub
+# Trevor Renner
 
-## 🚀 About Me
-I'm a **Resident Solutions Architect (RSA)** with deep experience in **cloud security and infrastructure automation**. My work blends **HashiCorp Vault**, **Kubernetes**, and **Terraform** to build secure, scalable systems for enterprise environments.  
+Infrastructure Security Engineer at [MoonPay](https://www.moonpay.com). I build secure cloud platforms, secrets management, and detection-oriented infrastructure — mostly on AWS with HashiCorp Vault, Terraform, and Kubernetes.
 
-I specialize in:
-- 🔒 Designing **secrets management** and **zero-trust architectures**  
-- ⚙️ Automating workflows with **Infrastructure as Code** and CI/CD  
-- ☁️ Enabling **cloud-native security** across AWS, Azure, and hybrid environments  
-- 🏗️ Driving **security architecture & cloud-native design** initiatives  
+Based in Vancouver, BC.
 
-I’m also committed to continuous learning, pursuing advanced **cybersecurity certifications** (SANS GCIH, AWS Solutions Architect, KCNA/KCSA) while contributing to **open-source projects** in both the **cloud** and **marine electronics** spaces.  
+## Focus
 
----
+- Secrets management and identity-first access (Vault, workload identity, JWT auth)
+- Cloud security and infrastructure as code (AWS, Terraform, CDK)
+- Detection and telemetry (audit logs, homelab SOC tooling, DShield)
+- CI/CD that treats identity and secrets as first-class concerns
 
-## 🛠️ Technologies & Tools
+## Projects
 
-### Cloud & Platforms
-- **AWS**, **Azure**, **Kubernetes**
+| Repo | What it is |
+| --- | --- |
+| [hashicorp-vault-audit-analysis](https://github.com/trenner1/hashicorp-vault-audit-analysis) | Vault audit log parser and enrichment for cluster operations |
+| [cloud-honeypot](https://github.com/trenner1/cloud-honeypot) | Automated AWS CDK deploy of the SANS ISC DShield sensor |
+| [vault-eks](https://github.com/trenner1/vault-eks) | Vault Enterprise on AWS EKS with Raft storage |
+| [EC2-Provisioner](https://github.com/trenner1/EC2-Provisioner) | Terraform + Ansible learning environments on EC2 |
+| [bazel-jwt-vault-demo](https://github.com/trenner1/bazel-jwt-vault-demo) | JWT / Vault identity demo (confused-deputy / workload auth) |
 
-### Security & Automation
-- **HashiCorp Vault**, **Terraform**, **Consul**, **Ansible**  
-- **CI/CD**: GitHub Actions, Jenkins 
-- **Monitoring**: Grafana, Prometheus, ELK Stack  
+## Writing
 
-### Programming & Scripting
-- **Rust**, **Python**, **Bash**
+- [The Confused Deputy Problem in Vault, JWTs, and AI Workloads](https://www.linkedin.com/pulse/confused-deputy-problem-vault-jwts-ai-workloads-trevor-renner-gvhoc)
+- More on [LinkedIn](https://www.linkedin.com/in/tlrenner) and [Medium](https://medium.com/@trevor.l.renner)
 
----
+## Currently
 
-## 🌱 What I'm Working On
-- Strengthening **Vault** integrations and architectures for enterprise environments  
-- Training toward **AWS Solutions Architect** and **Kubernetes Security** certifications  
-- Designing **resilient, cloud-native security architectures** for hybrid enterprises  
-- Developing an **open-source marine navigation and monitoring system** integrating sensors, dashboards, and secure telemetry  
+- SANS Technology Institute (detection, IR, cloud-native and Kubernetes security)
+- Homelab and open-source work around Vault operations, AWS, and internet telemetry
 
----
+## Contact
 
-## 📖 Featured Projects
-
-### **Vault Audit Log Tool**
-An enterprise grade log parser with endpoint enrichment. Used by Major American and Canadian Banks to gain insights into their Vault Cluster Operations.
-
-### ⛵ **Open-Source Marine Navigation System**
-A Rust and Python–based project for real-time marine navigation and monitoring, integrating NMEA data, sensors, and dashboards for onboard and remote use.  
-
-### ☁️ **[AWS EC2 Provisioner](https://github.com/trenner1/EC2-Provisioner)**
-An open-source provisioner for standing up **learning environments** with Terraform and Ansible.  
-
----
-
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/tlrenner)  
-- 🌐 [Medium](https://medium.com/@trevor.l.renner)  
+- [LinkedIn](https://www.linkedin.com/in/tlrenner)
+- [Medium](https://medium.com/@trevor.l.renner)
