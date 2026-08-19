@@ -1,12 +1,12 @@
 # Trevor Renner
 
-Infrastructure Security Engineer at [MoonPay](https://www.moonpay.com). I build secure cloud platforms, secrets management, and detection-oriented infrastructure — mostly on AWS with HashiCorp Vault, Terraform, and Kubernetes.
+Infrastructure Security Engineer at [MoonPay](https://www.moonpay.com). I build secure cloud platforms, secrets management, and detection-oriented infrastructure — mostly on GCP and AWS.
 
 Based in Vancouver, BC.
 
 ## Focus
 
-- Secrets management and identity-first access (Vault, workload identity, JWT auth)
+- Secrets management and identity-first access (CSM, workload identity, JWT auth)
 - Cloud security and infrastructure as code (AWS, Terraform, CDK)
 - Detection and telemetry (audit logs, homelab SOC tooling, DShield)
 - CI/CD that treats identity and secrets as first-class concerns
@@ -17,9 +17,7 @@ Based in Vancouver, BC.
 | --- | --- |
 | [hashicorp-vault-audit-analysis](https://github.com/trenner1/hashicorp-vault-audit-analysis) | Vault audit log parser and enrichment for cluster operations |
 | [cloud-honeypot](https://github.com/trenner1/cloud-honeypot) | Automated AWS CDK deploy of the SANS ISC DShield sensor |
-| [vault-eks](https://github.com/trenner1/vault-eks) | Vault Enterprise on AWS EKS with Raft storage |
-| [EC2-Provisioner](https://github.com/trenner1/EC2-Provisioner) | Terraform + Ansible learning environments on EC2 |
-| [bazel-jwt-vault-demo](https://github.com/trenner1/bazel-jwt-vault-demo) | JWT / Vault identity demo (confused-deputy / workload auth) |
+
 
 ## Writing
 
