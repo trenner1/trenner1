@@ -15,19 +15,19 @@ Based in Vancouver, BC.
 
 | Repo | What it is |
 | --- | --- |
-| [hashicorp-vault-audit-analysis](https://github.com/trenner1/hashicorp-vault-audit-analysis) | Vault audit log parser and enrichment for cluster operations |
+| [hashicorp-vault-audit-analysis](https://github.com/trenner1/hashicorp-vault-audit-analysis) | Secret-management audit log parser and enrichment for cluster operations |
 | [cloud-honeypot](https://github.com/trenner1/cloud-honeypot) | Automated AWS CDK deploy of the SANS ISC DShield sensor |
 
 
 ## Writing
 
-- [The Confused Deputy Problem in Vault, JWTs, and AI Workloads](https://www.linkedin.com/pulse/confused-deputy-problem-vault-jwts-ai-workloads-trevor-renner-gvhoc)
+- [The Confused Deputy Problem in Secret Management (Vault), JWTs, and AI Workloads](https://www.linkedin.com/pulse/confused-deputy-problem-vault-jwts-ai-workloads-trevor-renner-gvhoc)
 - More on [LinkedIn](https://www.linkedin.com/in/tlrenner) and [Medium](https://medium.com/@trevor.l.renner)
 
 ## Currently
 
 - SANS Technology Institute (detection, IR, cloud-native and Kubernetes security)
-- Homelab and open-source work around Vault operations, AWS, and internet telemetry
+- Homelab and open-source work around CSM operations, AWS, and internet telemetry
 
 ## Contact
 
